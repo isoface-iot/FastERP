@@ -67,3 +67,9 @@ FastERP開發測試為協助開發者，測試IDE界面設計、瀏覽系統管�
     * 開啟檢視模組配置界面的模組
     * 點選功能表欄中的設計-模組配置
     * 開啟模組設計界面，檢視模組的窗體配置資訊。詳情請參考[FastERP快速上手](https://isoface.net/isoface/doc/fasterp/quick-start/)。
+
+
+* **FastERP 簡介**：https://isoface.net/isoface/production/software/fasterp/erp
+* **FastERP 產品說明**：https://isoface.net/isoface/doc/fasterp/main/
+* **FastERP 快速上手**：https://isoface.net/isoface/teaching/fasterp/1/
+* **FastERP 無需安裝，線上試用**：https://isoface.net/isoface/support/trial/fasterp
