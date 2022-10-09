@@ -1,9 +1,13 @@
 # FastERP
 整合 ERP 與智慧物聯網，迎接智慧化企業。FastERP採用多種資料庫，簡易、快捷，將雲端商機與企業串聯在一起，Links Everything For You。不但輔助企業管理運轉，也提供經營資訊，消弭企業管理的鴻溝。免費的 FastERP 安裝即用，簡單運用無需編寫程式。即使編寫程式也無須編譯，直接執行看結果。採用設計與管理條件的選取方法，以所見即所得的操作畫面，快速完成軟體設計工作。並提供各種開源模板以供學習，簡化開發門檻。
 
-> **請加入【FaceBook社團】掌握產品最新動態**
+> **加入 Facebook 社團**
 >
-> [https://www.facebook.com/groups/535849751457439](https://www.facebook.com/groups/535849751457439)
+> [https://www.facebook.com/groups/isoface/](https://www.facebook.com/groups/isoface/)
+> 
+> **點讚追蹤 Facebook 粉絲專頁**
+> 
+> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
 
 FastERP結合IsoFace愛招飛四種軟體產品：
 
